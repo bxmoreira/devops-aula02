@@ -2,6 +2,5 @@
 Aula 02
 # Escreva neste arquivo os nomes de seus 3 atores/atrizes preferidos e efetue o commit
 # Ator Joao
-# Atriz Ana
+# Ator Mario
 # Atriz Maria
-# Ator Marta
